@@ -34,6 +34,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 ### Office Hours
 <div id='id-office'/>
 
+* Viernes de 18:00 a 19:00.
+
 # Material del curso
 <div id='id-material'/>
 
