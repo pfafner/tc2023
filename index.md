@@ -1,4 +1,4 @@
-# Teoría de la Computación 2023
+/# Teoría de la Computación 2023
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Warning_icon.svg" width="60">  **Site on construction!**
 
@@ -41,7 +41,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
  **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
  -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
-  01      | 05.07.2023   | Introducción al curso. Aspectos generales de la teoría de la computación. | Hopcroft-Ullman, Sección 1.1 
+  01      | 05.07.2023   | Introducción al curso. Aspectos generales de la teoría de la computación. | Hopcroft-Ullman, Sección 1.1 <br/> Leer secciones 1.2 a 1.4
 
   
 # Proyectos
