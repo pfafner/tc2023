@@ -41,13 +41,15 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
  **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
  -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
-  01      | 05.07.2023   | Introducción al curso. Aspectos generales de la teoría de la computación. | Hopcroft-Ullman, Sección 1.1 <br/> Leer secciones 1.2 a 1.4
+  01      | 05.07.2023   | Introducción al curso. Aspectos generales de la teoría de la computación. | Hopcroft-Ullman, Sección 1.1
 
   
 # Proyectos
 <div id='id-proyectos'/>
 
-  
+* Se indicarán más adelante.
+
+
 # Referencias
 <div id='id-ref'/> 
 
