@@ -45,7 +45,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 # Proyectos
 <div id='id-proyectos'/>
 
-* Se indicarán más adelante.
+En el curso se desarrollarán tres proyectos, los cuales se indicarán más adelante.
 
 
 # Referencias
