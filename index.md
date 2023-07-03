@@ -27,7 +27,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 ### Horario
 <div id='id-horario'/>
 
-* Lunes de 19:00 a 21:25, y Miércoles de 19:00 a 20:35.
+* Lunes de 19:00 a 21:25 CIT-513, y Miércoles de 19:00 a 20:35 CIT-301.
 
 ### Office Hours
 <div id='id-office'/>
