@@ -24,6 +24,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 # Programa del curso
 <div id='id-programa'/>
 
+[Programa del curso](programa/Programa-tc2023.pdf){:target="_blank"}
+
 ### Horario
 <div id='id-horario'/>
 
