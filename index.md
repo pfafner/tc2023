@@ -42,8 +42,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
  **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
  -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
   01      | 05.07.2023   | Introducción al curso. Aspectos generales de la teoría de la computación. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 1.1
-  02      | 10.07.2023   | Autómatas Finitos Deterministas (AFD). Tabla de transiciones. <br/> [Aula 02a](aulas/Aula02a.pdf){:target="_blank"} [Aula 02b](aulas/Aula02b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 1.2  
-  03      | 12.07.2023   | Expresiones regulares. Árboles sintáctivos para *regexp*. Notación infix y postfix. <br/> [Aula 03a](aulas/Aula03a.pdf){:target="_blank"} [Aula 03b](aulas/Aula03b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 1.2  
+  02      | 10.07.2023   | Autómatas Finitos Deterministas (AFD). Tabla de transiciones. <br/> [Aula 02a](aulas/Aula02a.pdf){:target="_blank"} [Aula 02b](aulas/Aula02b.pdf){:target="_blank"} | Hopcroft-Ullman, Secciones 2.1, 2.2  
+  03      | 12.07.2023   | Expresiones regulares. Árboles sintáctivos para *regexp*. Notación infix y postfix. <br/> [Aula 03a](aulas/Aula03a.pdf){:target="_blank"} [Aula 03b](aulas/Aula03b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.1  
 
 
 # Proyectos
