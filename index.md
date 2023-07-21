@@ -45,8 +45,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   02      | 10.07.2023   | Autómatas Finitos Deterministas (AFD). Tabla de transiciones. <br/> [Aula 02a](aulas/Aula02a.pdf){:target="_blank"} [Aula 02b](aulas/Aula02b.pdf){:target="_blank"} | Hopcroft-Ullman, Secciones 2.1, 2.2  
   03      | 12.07.2023   | Expresiones regulares. Árboles sintáctivos para *regexp*. Notación infix y postfix. <br/> [Aula 03a](aulas/Aula03a.pdf){:target="_blank"} [Aula 03b](aulas/Aula03b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.1  
   L1      | 17.07.2023   |   | [Lab 01](labs/Lab01.pdf){:target="_blank"}  
-  04      | 19.07.2023   | Función de transición extendida. Implementación de AFDs. [Aula 04](aulas/Aula04a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.1  
-  05      | 19.07.2023   | Autómatas Finitos No Deterministas (AFN). [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.1  
+  04      | 19.07.2023   | Función de transición extendida. Implementación de AFDs. [Aula 04](aulas/Aula04a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 2.2  
+  05      | 19.07.2023   | Autómatas Finitos No Deterministas (AFN). [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 2.3  
   
 
 # Proyectos
