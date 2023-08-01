@@ -51,6 +51,15 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L2      | 26.07.2023   |   | [Lab 02](labs/Lab02.pdf){:target="_blank"}  
   07      | 31.07.2023   | Algoritmo de Thompson simplificado. Algoritmo de Glushkov. [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 2.3 
 
+  
+# Lecturas complementarias
+### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
+<div id='id-notas'/>
+
+  **No.**  | **Fecha**    | **Tópicos**                                                                | **Recursos**
+  -------- | ------------ | -------------------------------------------------------------------------- |  -------------------------------------
+  01       | 31.07.2023   | Lectura 1 - Expresiones regulares y AFNs.                                  | [Lectura 1](lecturas/Lectura01.pdf){:target="_blank"}
+
 
 # Proyectos
 <div id='id-proyectos'/>
