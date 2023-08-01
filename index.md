@@ -47,9 +47,9 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L1      | 17.07.2023   |   | [Lab 01](labs/Lab01.pdf){:target="_blank"}  
   04      | 19.07.2023   | Función de transición extendida. Implementación de AFDs. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 2.2  
   05      | 19.07.2023   | Autómatas Finitos No Deterministas (AFN). [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 2.3  
-  06      | 24.07.2023   | Cerradura y épsilon-transiciones.                          | Hopcroft-Ullman, Sección 2.5 
+  06      | 24.07.2023   | Conversión de AFN a AFD. <br/> Cerradura y épsilon-transiciones. | Hopcroft-Ullman, Sección 2.5 
   L2      | 26.07.2023   |   | [Lab 02](labs/Lab02.pdf){:target="_blank"}  
-  07      | 31.07.2023   | Conversión de AFN a AFD. Algoritmo de Thompson. Algoritmo de Glushkov. [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2 
+  07      | 31.07.2023   | Conversión de *Regexp* a AFN. Algoritmo de Thompson. Algoritmo de Glushkov. [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2 
 
   
 # Lecturas complementarias
