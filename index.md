@@ -51,8 +51,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L2      | 26.07.2023   |   | [Lab 02](labs/Lab02.pdf){:target="_blank"}  
   07      | 31.07.2023   | Conversión de *Regexp* a AFN. Algoritmo de Thompson. Algoritmo de Glushkov. [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2 
   08      | 07.08.2023   | Conversión de AFN a *Regexp*. Algoritmo de Reducción. Método de Arden. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
-  L3      | 09.08.2023   |   |  
-
+  L3      | 09.08.2023   |   | [Lab 03](labs/Lab03.pdf){:target="_blank"}  
+ 
   
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
