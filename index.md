@@ -53,8 +53,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   08      | 07.08.2023   | Conversión de AFN a *Regexp*. Algoritmo de Reducción. Método de Arden. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
   L3      | 09.08.2023   |   | [Lab 03](labs/Lab03.pdf){:target="_blank"}  
   09      | 14.08.2023   | Propiedades de lenguajes regulares: vacuidad, finitud, *Pumping Lemma*. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
-  10      | 14.08.2023   | Producto de autómatas.  | Hopcroft-Ullman, Sección 3.4
-
+  10      | 14.08.2023   | Producto de autómatas. Algoritmo de equivalencia. Algoritmo de minimización. [Aula 09a](aulas/Aula09a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
   
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
