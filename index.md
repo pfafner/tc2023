@@ -55,7 +55,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   09      | 14.08.2023   | Propiedades de lenguajes regulares: vacuidad, finitud, *Pumping Lemma*. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
   10      | 16.08.2023   | Producto de autómatas. Algoritmo de equivalencia. Algoritmo de minimización. [Aula 09a](aulas/Aula09a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
   11      | 16.08.2023   | Propiedades de cerradura. Algoritmos para unión, intersección, diferencia. [Aula 09b](aulas/Aula09b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
-
+  L4      | 21.08.2023   |   | 
   
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
