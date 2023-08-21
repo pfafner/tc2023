@@ -67,6 +67,14 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 
 # Proyectos
+<div id='id-projs'/>
+
+  **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
+  -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
+  1        | 21.08.2022   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](projects/){:target="_blank"}
+  
+
+# Proyectos
 <div id='id-proyectos'/>
 
 En el curso se desarrollarán tres proyectos, los cuales se indicarán más adelante.
