@@ -64,8 +64,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   **No.**  | **Fecha**    | **Tópicos**                                                                | **Recursos**
   -------- | ------------ | -------------------------------------------------------------------------- |  -------------------------------------
   01       | 31.07.2023   | Lectura 1 - Expresiones regulares y AFNs.                                  | [Lectura 1](lecturas/Lectura01.pdf){:target="_blank"}
-  02       | 07.08.2022   | Lectura 2 - Conversión de AFNs a AFDs y construcción directa del AFD.      | [Lectura 2](lectures/Lectura02.pdf){:target="_blank"}
-  03       | 21.08.2022   | Lectura 3 - Minimización de AFDs.                                          | [Lectura 3](lectures/Lectura03.pdf){:target="_blank"}
+  02       | 07.08.2023   | Lectura 2 - Conversión de AFNs a AFDs y construcción directa del AFD.      | [Lectura 2](lectures/Lectura02.pdf){:target="_blank"}
+  03       | 21.08.2023   | Lectura 3 - Minimización de AFDs.                                          | [Lectura 3](lectures/Lectura03.pdf){:target="_blank"}
 
 
 # Proyectos
@@ -73,7 +73,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
   **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
   -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
-  1        | 21.08.2022   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](projects/){:target="_blank"}
+  1        | 21.08.2023   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](projects/){:target="_blank"}
   
 
 # Proyectos
