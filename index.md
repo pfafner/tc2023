@@ -56,6 +56,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   10      | 16.08.2023   | Producto de autómatas. Algoritmo de equivalencia. Algoritmo de minimización. [Aula 09a](aulas/Aula09a.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
   11      | 16.08.2023   | Propiedades de cerradura. Algoritmos para unión, intersección, diferencia. [Aula 09b](aulas/Aula09b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
   L4      | 21.08.2023   |   | [Lab 04](labs/Lab04.pdf){:target="_blank"}  
+  L5      | 23.08.2023   |   | [Lab 05](labs/Lab05.pdf){:target="_blank"}  
   
   
 # Lecturas complementarias
