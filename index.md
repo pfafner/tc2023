@@ -57,7 +57,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   11      | 16.08.2023   | Propiedades de cerradura. Algoritmos para unión, intersección, diferencia. [Aula 09b](aulas/Aula09b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4
   L4      | 21.08.2023   |   | [Lab 04](labs/Lab04.pdf){:target="_blank"}  
   L5      | 23.08.2023   |   | [Lab 05](labs/Lab05.pdf){:target="_blank"}  
-  12      | 28.08.2023   | Gramáticas libres del contexto. <br/> [Aula 12](aulas/Aula12.pdf):target="_blank"} | Hopcroft_ullman
+  12      | 28.08.2023   | Gramáticas libres del contexto. <br/> [Aula 12](aulas/Aula12.pdf):target="_blank"} | Hopcroft-Ullman, Sección 4.2
   
   
 # Lecturas complementarias
