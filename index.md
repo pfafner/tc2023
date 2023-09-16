@@ -80,8 +80,8 @@ En el curso se desarrollarán tres proyectos.
 
   **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
   -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
-  1        | 21.08.2023   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 18-22 septiembre.**
- 
+  1        | 21.08.2023   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 25-29 septiembre.**
+  2        | 21.08.2023   | Entrega del reporte final.
   
 # Referencias
 <div id='id-ref'/> 
