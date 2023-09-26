@@ -59,7 +59,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L5      | 23.08.2023   |   | [Lab 05](labs/Lab05.pdf){:target="_blank"}  
   12      | 28.08.2023   | Gramáticas libres del contexto. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.2
   13      | 30.08.2023   | Examen Corto 1. <br/>  | [Corto 1](cortos/corto1.pdf){:target="_blank"}  
-  14      | 18.09.2023   | Árboles sintácticos. Derivaciones *leftmost* y *rightmost*. <br/>  | Hopcroft-Ullman, Sección 4.3  
+  14      | 18.09.2023   | Árboles sintácticos. Derivaciones *leftmost* y *rightmost*. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.3  
   15      | 20.09.2023   | Ambigüedad en gramáticas. | 
   16      | 25.09.2023   | Algoritmo de simplificación de gramáticas. | 
   17      | 27.09.2023   | Entrega del proyecto 1. | 
