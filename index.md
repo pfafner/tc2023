@@ -81,12 +81,28 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 En el curso se desarrollarán tres proyectos.
 
-
   **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
   -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
   1        | 21.08.2023   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 25-29 septiembre.**
   2        | 27.09.2023   | Presentación y revisión del proyecto.
   3        | 29.09.2023   | Entrega del reporte final.
+
+Horarios para la presentación del Proyecto 1 (miércoles 27 de septiembre).
+
+  **No.**  | **Hora**         | **Grupo**                          
+  -------- | ---------------- | -----------------------------------
+  1        | 7:00 - 7:12 pm   | Equipo 1 
+  2        | 7:15 - 7:27 pm   | Equipo 1 
+  3        | 7:30 - 7:42 pm   | Equipo 1 
+  4        | 7:45 - 7:57 pm   | Equipo 1 
+  5        | 8:00 - 8:12 pm   | Equipo 1 
+  6        | 8:15 - 8:27 pm   | Equipo 1 
+  7        | 8:30 - 8:42 pm   | Equipo 1 
+  8        | 8:45 - 8:57 pm   | Equipo 1 
+  9        | 9:00 - 9:12 pm   | Equipo 1 
+  10       | 9:15 - 9:27 pm   | Equipo 1 
+
+
   
 # Referencias
 <div id='id-ref'/> 
