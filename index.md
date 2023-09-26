@@ -91,17 +91,16 @@ Horarios para la presentación del Proyecto 1 (miércoles 27 de septiembre).
 
   **No.**  | **Hora**         | **Grupo**                          
   -------- | ---------------- | -----------------------------------
-  1        | 7:00 - 7:12 pm   | Equipo 1 
+  1        | 7:00 - 7:12 pm   | Equipo 11 
   2        | 7:15 - 7:27 pm   | Equipo 1 
-  3        | 7:30 - 7:42 pm   | Equipo 1 
-  4        | 7:45 - 7:57 pm   | Equipo 1 
-  5        | 8:00 - 8:12 pm   | Equipo 1 
-  6        | 8:15 - 8:27 pm   | Equipo 1 
-  7        | 8:30 - 8:42 pm   | Equipo 1 
-  8        | 8:45 - 8:57 pm   | Equipo 1 
-  9        | 9:00 - 9:12 pm   | Equipo 1 
-  10       | 9:15 - 9:27 pm   | Equipo 1 
-
+  3        | 7:30 - 7:42 pm   | Equipo 7 
+  4        | 7:45 - 7:57 pm   | Equipo 10 
+  5        | 8:00 - 8:12 pm   | Equipo 3 
+  6        | 8:15 - 8:27 pm   | Equipo 8 
+  7        | 8:30 - 8:42 pm   | Equipo 5 
+  8        | 8:45 - 8:57 pm   | Equipo 9 
+  9        | 9:00 - 9:12 pm   | Equipo 4 
+  10       | 9:15 - 9:27 pm   | Equipo 6 
 
   
 # Referencias
