@@ -61,7 +61,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   13      | 30.08.2023   | Examen Corto 1. <br/>  | [Corto 1](cortos/corto1.pdf){:target="_blank"}  
   14      | 18.09.2023   | Árboles sintácticos. Derivaciones *leftmost* y *rightmost*. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.3  
   15      | 20.09.2023   | Ambigüedad en gramáticas. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
-  16      | 25.09.2023   | Algoritmo de simplificación de gramáticas. | 
+  16      | 25.09.2023   | Algoritmo de simplificación de gramáticas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | 
   17      | 27.09.2023   | Entrega del proyecto 1. | 
 
   
