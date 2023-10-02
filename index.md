@@ -81,11 +81,18 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 En el curso se desarrollarán tres proyectos.
 
-  **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
-  -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
-  1        | 21.08.2023   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 25-29 septiembre.**
+  **No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
+  -------- | ------------ | --------------------------------------------------------------- |  ---------------------
+  1        | 21.08.2023   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.            | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 25-29 septiembre.**
   2        | 27.09.2023   | Presentación y revisión del proyecto.
   3        | 29.09.2023   | Entrega del reporte final.
+
+
+  **No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
+  -------- | ------------ | --------------------------------------------------------------- |  ---------------------
+  1        | 01.10.2023   | Proyecto 2 - Algoritmo CYK para gramáticas.                     | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> **Fecha de Entrega: lunes 30 obtubre.**
+  2        | 30.10.2023   | Presentación y revisión del proyecto.
+  3        | 02.11.2023   | Entrega del reporte final.
 
   
 # Referencias
