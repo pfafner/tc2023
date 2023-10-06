@@ -63,6 +63,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   15      | 20.09.2023   | Ambigüedad en gramáticas. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
   16      | 25.09.2023   | Algoritmo de simplificación de gramáticas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | 
   17      | 27.09.2023   | Entrega del proyecto 1. | 
+  18      | 04.10.2023   | Forma Normal de Chomsky (CNF). Conversión a la CNF. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
 
   
 # Lecturas complementarias
