@@ -1,0 +1,119 @@
+Alan Reyes-Figueroa		
+Teoría de la Computación 2023
+04.10.2023
+
+Ejemplo de reducción de una gramática.
+(Algoritmo de simplificación)
+
+Ejemplo: Reducir la siguiente gramática
+
+	S  ->  ACD
+	A  ->  a
+	B  ->  e
+	C  ->  ED | e
+	D  ->  BC | e
+	E  ->  b
+
+1. DEL-e	
+
+	borramos B -> e
+
+	S  ->  ACD
+	A  ->  a
+	C  ->  ED | e
+	D  ->  BC | C | e
+	E  ->  b  
+
+	borramos C -> e
+
+	S  ->  ACD | AD
+	A  ->  a
+	C  ->  ED
+	D  ->  BC | B | C | e 
+	E  ->  b
+
+	borramos D -> e
+
+	S  ->  ACD | AC | AD | A
+	A  ->  a
+	C  ->  ED | E 
+	D  ->  BC | B | C 
+	E  ->  b
+
+
+2. UNIT
+
+	Producciones unarias:  S -> A, C -> E, D -> B, D -> C
+
+	Borramos S -> A -> a 
+
+	S  ->  ACD | AC | AD | a
+	A  ->  a
+	C  ->  ED | E 
+	D  ->  BC | B | C 
+	E  ->  b
+
+	Borramos C -> E -> b
+
+	S  ->  ACD | AC | AD | a
+	A  ->  a
+	C  ->  ED | b 
+	D  ->  BC | B | C 
+	E  ->  b
+
+	Borramos D -> B ->  No hay
+
+	Borramos D -> C -> ED
+	              C -> b
+
+
+	S  ->  ACD | AC | AD | a
+	A  ->  a
+	C  ->  ED | b 							
+	D  ->  BC | ED | b
+	E  ->  b
+
+
+	S      A  C  D  a     E   b   B  
+
+3. USELESS
+
+	Todos los símbolos son alcanzables.
+
+	a  b   S   A   C  D   E       (B no lleva a terminales)
+
+	Remover  D -> BC
+
+	S  ->  ACD | AC | AD | a
+	A  ->  a
+	C  ->  ED | b 							
+	D  ->  ED | b
+	E  ->  b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
