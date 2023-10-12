@@ -64,7 +64,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   16      | 25.09.2023   | Algoritmo de simplificación de gramáticas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | 
   17      | 27.09.2023   | Entrega del proyecto 1. | 
   18      | 02.10.2023   | Forma Normal de Chomsky (CNF). Conversión a la CNF. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
-  19      | 04.10.2023   | Ejemplos de reducción y conversión a CNF. <br/> [Ejemplo Reducción](aulas/Ejemplo_Reducción.txt){:target="_blank"} [Ejemplo Binarización](aulas/Binarización.txt){:target="_blank"} <br/> [Ejemplo CNF](aulas/Ejemplo_CNF.txt){:target="_blank"} 
+  19      | 04.10.2023   | Ejemplos de reducción y conversión a CNF. <br/> [Ejemplo Reducción](aulas/Ejemplo_Reduccion.txt){:target="_blank"} [Ejemplo Binarización](aulas/Binarizacion.txt){:target="_blank"} <br/> [Ejemplo CNF](aulas/Ejemplo_CNF.txt){:target="_blank"} 
   20      | 09.10.2023   | Autómatas de pila. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
   L6      | 11.10.2023   |    | [Lab 06](labs/Lab06.pdf){:target="_blank"}
 
