@@ -67,7 +67,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   19      | 04.10.2023   | Ejemplos de reducción y conversión a CNF. <br/> [Ejemplo Reducción](aulas/Ejemplo_Reduccion.txt){:target="_blank"} [Ejemplo Binarización](aulas/Binarizacion.txt){:target="_blank"} <br/> [Ejemplo CNF](aulas/Ejemplo_CNF.txt){:target="_blank"} 
   20      | 09.10.2023   | Autómatas de pila. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
   L6      | 11.10.2023   |    | [Lab 06](labs/Lab06.pdf){:target="_blank"}
-
+  21      | 16.10.2023   |    | 
   
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
