@@ -65,9 +65,10 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   17      | 27.09.2023   | Entrega del proyecto 1. | 
   18      | 02.10.2023   | Forma Normal de Chomsky (CNF). Conversión a la CNF. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
   19      | 04.10.2023   | Ejemplos de reducción y conversión a CNF. <br/> [Ejemplo Reducción](aulas/Ejemplo_Reduccion.txt){:target="_blank"} [Ejemplo Binarización](aulas/Binarizacion.txt){:target="_blank"} <br/> [Ejemplo CNF](aulas/Ejemplo_CNF.txt){:target="_blank"} 
-  20      | 09.10.2023   | Autómatas de pila (PDA). Ejemplos. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
+  20      | 09.10.2023   | Autómatas de pila (PDA). Ejemplos. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} [Aula 18](aulas/Aula18.pdf){:target="_blank"}|  
   L6      | 11.10.2023   |    | [Lab 06](labs/Lab06.pdf){:target="_blank"}
-  21      | 16.10.2023   | Ejemplos. Conversión entre PDA y CFG. *Pumping Lemma* para PDA.    | 
+  21      | 16.10.2023   | Ejemplos. Conversión entre PDA y CFG. *Pumping Lemma* para PDA. [Aula 19](aulas/Aula19.pdf){:target="_blank"} [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
+  
   
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
