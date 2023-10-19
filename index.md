@@ -68,6 +68,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   20      | 09.10.2023   | Autómatas de pila (PDA). Ejemplos. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} [Aula 18](aulas/Aula18.pdf){:target="_blank"}|  
   L6      | 11.10.2023   |    | [Lab 06](labs/Lab06.pdf){:target="_blank"}
   21      | 16.10.2023   | Ejemplos. Conversión entre PDA y CFG. *Pumping Lemma* para PDA. [Aula 19](aulas/Aula19.pdf){:target="_blank"} [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
+  L7      | 18.10.2023   |    | [Lab 07](labs/Lab07.pdf){:target="_blank"}
   
   
 # Lecturas complementarias
