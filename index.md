@@ -69,7 +69,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L6      | 11.10.2023   |    | [Lab 06](labs/Lab06.pdf){:target="_blank"}
   21      | 16.10.2023   | Ejemplos. Conversión entre PDA y CFG. *Pumping Lemma* para PDA. [Aula 19](aulas/Aula19.pdf){:target="_blank"} [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
   L7      | 18.10.2023   |    | [Lab 07](labs/Lab07.pdf){:target="_blank"}
-  
+  22      | 23.10.2023   | Máquinas de Turing. [Aula 21](aulas/Aula21.pdf){:target="_blank"} [Aula 22](aulas/Aula22.pdf){:target="_blank"} |   
   
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
