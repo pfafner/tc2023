@@ -71,6 +71,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L7      | 18.10.2023   |    | [Lab 07](labs/Lab07.pdf){:target="_blank"}
   22      | 23.10.2023   | Máquinas de Turing. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} [Aula 22](aulas/Aula22.pdf){:target="_blank"} |   
   23      | 25.10.2023   | Ejemplos de máquinas de Turing. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | 
+  24      | 30.10.2023   | Entrega del proyecto 2. |  
+  
   
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
