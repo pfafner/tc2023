@@ -101,9 +101,16 @@ En el curso se desarrollarán tres proyectos.
 
   **No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
   -------- | ------------ | --------------------------------------------------------------- |  ---------------------
-  1        | 01.10.2023   | Proyecto 2 - Algoritmo CYK para gramáticas.                     | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> **Fecha de Entrega: lunes de 30 octubre.**
+  1        | 01.10.2023   | Proyecto 2 - Algoritmo CYK para gramáticas.                     | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> **Fecha de Entrega: lunes 30 de octubre.**
   2        | 30.10.2023   | Presentación y revisión del proyecto.
   3        | 02.11.2023   | Entrega del reporte final.
+
+
+  **No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
+  -------- | ------------ | --------------------------------------------------------------- |  ---------------------
+  1        | 05.11.2023   | Proyecto 3 - Máquinas de Turing.                     | [Proyecto 3](){:target="_blank"} <br/> **Fecha de Entrega: miércoles 22 de noviembre.**
+  2        | 22.11.2023   | Presentación y revisión del proyecto.
+  3        | 24.11.2023   | Entrega del reporte final.
 
   
 # Referencias
