@@ -108,7 +108,7 @@ En el curso se desarrollarán tres proyectos.
 
   **No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
   -------- | ------------ | --------------------------------------------------------------- |  ---------------------
-  1        | 05.11.2023   | Proyecto 3 - Máquinas de Turing.                     | [Proyecto 3](){:target="_blank"} <br/> **Fecha de Entrega: miércoles 22 de noviembre.**
+  1        | 05.11.2023   | Proyecto 3 - Máquinas de Turing.                     | [Proyecto 3](proyectos/Proyecto3.pdf){:target="_blank"} <br/> **Fecha de Entrega: miércoles 22 de noviembre.**
   2        | 22.11.2023   | Presentación y revisión del proyecto.
   3        | 24.11.2023   | Entrega del reporte final.
 
