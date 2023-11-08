@@ -73,7 +73,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   23      | 25.10.2023   | Ejemplos de máquinas de Turing. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | 
   24      | 30.10.2023   | Entrega del proyecto 2. |  
   25      | 06.11.2023   | Análisis de algoritmos. |  
-  L8      | 08.11.2023   |    | [Lab 08](){:target="_blank"}
+  L8      | 08.11.2023   |    | [Lab 08](labs/Lab08.pdf){:target="_blank"}
   26      | 08.11.2023   | Complejidad computacional. |  
   
   
