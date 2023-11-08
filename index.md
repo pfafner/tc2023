@@ -74,6 +74,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   24      | 30.10.2023   | Entrega del proyecto 2. |  
   25      | 06.11.2023   | Análisis de algoritmos. |  
   L8      | 08.11.2023   |    | [Lab 08](){:target="_blank"}
+  26      | 08.11.2023   | Complejidad computacional. |  
   
   
 # Lecturas complementarias
