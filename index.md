@@ -74,8 +74,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   24      | 30.10.2023   | Entrega del proyecto 2. |  
   25      | 06.11.2023   | Análisis de algoritmos. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} |  
   L8      | 08.11.2023   |    | [Lab 08](labs/Lab08.pdf){:target="_blank"}
-  26      | 06.11.2023   | Extensiones de máquinas de Turing: Multi-tracks y multi-cinta. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
-  27      | 06.11.2023   | Análisis de algoritmos. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} |  
+  26      | 13.11.2023   | Extensiones de máquinas de Turing: Multi-tracks y multi-cinta. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
+  27      | 13.11.2023   | Complejidad y computabilidad. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} |  
   
   
 # Lecturas complementarias
