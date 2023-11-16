@@ -77,6 +77,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   26      | 13.11.2023   | Extensiones de máquinas de Turing: Multi-tracks y multi-cinta. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |  
   27      | 13.11.2023   | Complejidad y computabilidad. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} |  
   28      | 15.11.2023   | Cálculo Lambda: Axiomas, ejemplos, Números de Church. [Aula 27](aulas/Aula27.pdf){:target="_blank"} |  
+  29      | 15.11.2023   | Clases de complejidad. P vs NP. Ejemplo del TSP. [Aula 28](aulas/Aula28.pdf){:target="_blank"} |  
   
   
 # Lecturas complementarias
