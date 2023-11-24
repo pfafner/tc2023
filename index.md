@@ -78,8 +78,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   27      | 13.11.2023   | Complejidad y computabilidad. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} |  
   28      | 15.11.2023   | Cálculo Lambda: Axiomas, ejemplos, Números de Church. [Aula 27](aulas/Aula27.pdf){:target="_blank"} |  
   29      | 15.11.2023   | Clases de complejidad. P vs NP. Ejemplo del TSP. [Aula 28](aulas/Aula28.pdf){:target="_blank"} |  
-  30      | 15.11.2023   | Máquinas de Turing Universales (UTM). Dispositivos Turing-completos.  |  
-  31      |              |  | 
+  30      | 20.11.2023   | Máquinas de Turing Universales (UTM). Dispositivos Turing-completos.  |  
+  31      | 22.11.2023   | Entrega del Proyecto 3. | 
 
   
 # Lecturas complementarias
