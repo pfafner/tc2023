@@ -119,22 +119,6 @@ En el curso se desarrollarán tres proyectos.
   1        | 05.11.2023   | Proyecto 3 - Máquinas de Turing.                     | [Proyecto 3](proyectos/Proyecto3.pdf){:target="_blank"} <br/> **Fecha de Entrega: miércoles 22 de noviembre.**
   2        | 22.11.2023   | Presentación y revisión del proyecto.
   3        | 24.11.2023   | Entrega del reporte final.
-
-### Horarios de presentación Proyecto 3
-
-  **No.**  | **Hora**     | **Equipo**         
-  -------- | ------------ | ------------
-  1        | 5:30pm       | Equipo 10 
-  2        | 5:45pm       | Equipo 4 
-  3        | 6:00pm       | Equipo 6 
-  4        | 6:15pm       | Equipo 11 
-  5        | 6:30pm       | Equipo 9 
-  6        | 6:45pm       | Equipo 8 
-  7        | 7:00pm       | Equipo 2 
-  8        | 7:15pm       | Equipo 5 
-  9        | 7:30pm       | Equipo 1 
-  10       | 7:45pm       | Equipo 7 
-  11       | 8:00pm       | Equipo 3 
  
   
 # Referencias
